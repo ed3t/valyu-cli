@@ -1,0 +1,9 @@
+.history
+node_modules/
+dist/
+.valyu/config
+*.log
+.env
+.env.local
+.DS_Store
+*.tgz
